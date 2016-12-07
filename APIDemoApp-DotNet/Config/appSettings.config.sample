@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<appSettings>
+  <add key="TwillioAccountSid" value="Twillio Account Sid"></add>
+  <add key="TwillioAuthToken" value="Twillio AuthToken"></add>
+  <add key="TwillioFromNumber" value="Twillio Phone Number"></add>
+</appSettings>
